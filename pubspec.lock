@@ -9,15 +9,6 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "101.0.0"
-  _flutterfire_internals:
-    dependency: "direct main"
-    description:
-      path: "."
-      ref: HEAD
-      resolved-ref: b6b05c65ce77273a5ba33dcf8e11a817911c3179
-      url: "https://github.com/kumsumit/_flutterfire_internals.git"
-    source: git
-    version: "1.3.72"
   analyzer:
     dependency: transitive
     description:
@@ -196,6 +187,15 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
+  flutterfire_internals:
+    dependency: "direct main"
+    description:
+      path: "."
+      ref: HEAD
+      resolved-ref: a524e2131b0e4cb76665e3ec74483b7ef933a4a3
+      url: "https://github.com/kumsumit/flutterfire_internals.git"
+    source: git
+    version: "1.3.72"
   glob:
     dependency: transitive
     description:
